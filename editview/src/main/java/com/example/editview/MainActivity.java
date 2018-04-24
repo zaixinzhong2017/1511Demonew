@@ -10,7 +10,7 @@ public class MainActivity extends AppCompatActivity {
 
     View view,view1;
     EditText et,et1;
-    String string;
+    String string1;
 
     ValueAnimator valueAnimator;
 
